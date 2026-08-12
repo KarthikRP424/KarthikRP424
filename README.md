@@ -62,12 +62,6 @@ An IoT safety project designed to detect drowning situations and provide emergen
 
 ---
 
-### 🌱 Embedded Vision System for Crop Disease Identification
-
-An embedded vision project using an ESP32 camera to identify crop disease-related conditions and display information through an IoT dashboard.
-
-**Focus:** ESP32-CAM • Computer Vision • IoT • ThingSpeak
-
 ---
 
 ### 🏫 School Monitoring & Reporting System
